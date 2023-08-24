@@ -11,7 +11,7 @@
 
 ## 範例演示
 
-<img src="pic/url.gif" alt="示例圖片" width="600">
+<img src="pic/url.gif" width="600">
 
 ## 安裝和運行
 
